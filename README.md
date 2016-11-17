@@ -1,0 +1,2 @@
+# Senior-Research
+This is where I will be posting my code for my senior research project. I will be comparing C++, Java, and Python and will be writing 2 different programs in each language. The first program will run a list of 5,000 numbers through insertion sort, quick sort, and bubble sort and return how long it takes to complete. The second program will read in the declaration of independence and then output the number of words with 1-3 characters, 3-7, characters, and 7+ characters.
